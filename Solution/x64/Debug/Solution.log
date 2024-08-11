@@ -1,0 +1,9 @@
+﻿  Solution.cpp
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(306,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(379,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(448,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(167): warning C4715: 'ReadDecimalNumber': not all control paths return a value
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(181): warning C4715: 'ReadBinaryNumber': not all control paths return a value
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(195): warning C4715: 'ReadHexaDecimalNumber': not all control paths return a value
+D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\Solution.cpp(209): warning C4715: 'ReadOctalNumber': not all control paths return a value
+  Solution.vcxproj -> D:\Programming\3)_Projects\2)_Numbering_System_Converter_v1.2\Solution\x64\Debug\Solution.exe
